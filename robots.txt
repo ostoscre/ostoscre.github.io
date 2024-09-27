@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ostoscre.github.io/sitemap.ostoscre.gz
+Sitemap: https://ostoscre.github.io/app/sitemap.ostoscre.gz
+Sitemap: https://ostoscre.github.io/assets/sitemap.ostoscre.gz
+Sitemap: https://ostoscre.github.io/css/sitemap.ostoscre.gz
+Sitemap: https://ostoscre.github.io/data/sitemap.ostoscre.gz
+Sitemap: https://ostoscre.github.io/includes/sitemap.ostoscre.gz
+Sitemap: https://ostoscre.github.io/item/sitemap.ostoscre.gz
+Sitemap: https://ostoscre.github.io/src/sitemap.ostoscre.gz
